@@ -36,8 +36,3 @@ I build data pipelines, train models, and ship products — from raw data to pro
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mouhammadou-DIA&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouhammadou-DIA&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
