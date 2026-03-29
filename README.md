@@ -30,7 +30,7 @@ I build data pipelines, train models, and ship products — from raw data to pro
 | [RAG Chatbot](https://github.com/Mouhammadou-DIA/Chatbot_RAG_Reddit_chat) | RAG pipeline on Reddit data — ChromaDB, LLM (Ollama / OpenAI / Anthropic / Groq), FastAPI frontend, Docker | Python · ChromaDB · FastAPI · Docker |
 | [CO2 & Energy Forecasting](https://github.com/Mouhammadou-DIA/CO2-Emission-in-Seattle-REGO3) | Gradient Boosting for GHG emissions prediction — Dash dashboard with What-If simulator & 2050 projection | Python · Scikit-Learn · Dash |
 | [Deep Learning — NCF Recommender](https://github.com/Mouhammadou-DIA/Deep_Learning-Recommandation-using-NCF) | Recommendation system using Neural Collaborative Filtering (NCF) — user-item interactions modeled with deep neural networks | Python · PyTorch · NCF |
-| [Lab Stat — 3FPT Platform](https://github.com/Mouhammadou-DIA/Lab_Stat) | Decision-support platform for employment & vocational training in Senegal — territorial analysis, training-employment gap detection, NEET indicators (private) | R · RShiny · Statistics |
+| [Lab Stat — 3FPT Platform](https://github.com/Mouhammadou-DIA/Lab_Stat) | Decision-support platform for employment & vocational training in Senegal — territorial analysis, training-employment gap detection, NEET indicators (private) | Django · React · JavaScript |
 | [SEO Tools API](https://github.com/Mouhammadou-DIA/seo-tools-api) | SEO REST suite (Semrush-style) — rank checker, traffic analyzer, audit, backlinks | NestJS · TypeScript |
 
 ---
